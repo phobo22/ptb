@@ -1,0 +1,22 @@
+body {
+    background-color: #32323B;
+}
+
+.navbar, .name {
+    font-size: 30px;
+}
+
+.navbar ul li {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.main {
+    margin-top: 98px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+html {
+  overflow-y: scroll;
+}
